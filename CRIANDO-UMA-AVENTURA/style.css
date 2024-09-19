@@ -1,4 +1,3 @@
-
 body {
     background-color: #1D4221;
     color: white;
@@ -22,4 +21,13 @@ button {
 
 .passo.ativo {
     display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
 }
