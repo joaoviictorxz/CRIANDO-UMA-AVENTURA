@@ -6,15 +6,19 @@ body {
     justify-content: center;
     align-items: center;
     height: 700px;
-    margin: 0px;
+    margin: 0;
 }
 
 button {
     background-color: #64A712;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif; 
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo.ativo{
-    display: block;
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
 }
